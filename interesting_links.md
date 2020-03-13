@@ -1,4 +1,6 @@
-# General links
+# Interesting links
+
+## General links
 * https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/
 * https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/
 * https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/
@@ -9,7 +11,10 @@
 * https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca - lots of graphs
 * https://www.wired.com/story/singapore-was-ready-for-covid-19-other-countries-take-note/
 
-# Wikipedia links
+## History
+* https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
+
+## Wikipedia links
 * https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 * https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom
 * https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
