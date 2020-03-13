@@ -7,6 +7,7 @@
 * https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/
 * https://www.theinformation.com/articles/how-coronavirus-epidemics-could-alter-the-future-of-tech
 * https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca - lots of graphs
+* https://www.wired.com/story/singapore-was-ready-for-covid-19-other-countries-take-note/
 
 # Wikipedia links
 * https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
