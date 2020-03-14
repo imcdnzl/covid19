@@ -10,11 +10,17 @@
 * https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca - lots of graphs
 * https://www.wired.com/story/singapore-was-ready-for-covid-19-other-countries-take-note/
 * https://www.latimes.com/world-nation/story/2020-03-13/china-japan-korea-coronavirus-reinfection-test-positive - a report on how a (low) number of people are getting reinfected
+* https://systems.jhu.edu/ - John Hopkins University
+
+## Medical / biological
+* https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
+* https://www.thetimes.co.uk/article/coronavirus-pandemic-men-with-high-blood-pressure-are-the-biggest-casualties-kpvpmvq6l?shareToken=0ac0d81f0cdbfc49da97fa8ae870892a - interesting article talking about high fatalities for people on blood pressure drugs which work with ACE as does the virus
 
 ## Data
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 - a dashboard of metrics
 * https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports - World Health Organisation data
 * https://ourworldindata.org/coronavirus - Our World in Data
+* https://www.gisaid.org/epiflu-applications/next-hcov-19-app/ - Genomic family tree
 
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
