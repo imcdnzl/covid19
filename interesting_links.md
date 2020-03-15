@@ -21,6 +21,7 @@
 * https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports - World Health Organisation data
 * https://ourworldindata.org/coronavirus - Our World in Data
 * https://www.gisaid.org/epiflu-applications/next-hcov-19-app/ - Genomic family tree
+* https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441 - a collection of graphs from the Financial Times
 
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
