@@ -26,6 +26,9 @@
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
 
+## Economic
+* https://www.morningstar.com/articles/971254/morningstars-view-the-impact-of-coronavirus-on-the-economy - analysis from Morningstar
+
 ## Wikipedia links
 * https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 * https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom
