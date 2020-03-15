@@ -11,6 +11,7 @@
 * https://www.wired.com/story/singapore-was-ready-for-covid-19-other-countries-take-note/
 * https://www.latimes.com/world-nation/story/2020-03-13/china-japan-korea-coronavirus-reinfection-test-positive - a report on how a (low) number of people are getting reinfected
 * https://systems.jhu.edu/ - John Hopkins University
+* https://twitter.com/i/lists/1235657765743472642 - my Twitter list of some people who are tweeting on the subject
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
