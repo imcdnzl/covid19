@@ -4,7 +4,7 @@
 * https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/
 * https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/
 * https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/
-* https://www.who.int/news-room/q-a-detail/q-a-coronaviruses
+* https://www.who.int/emergencies/diseases/novel-coronavirus-2019 - WHO (World Health Organisation) homepage for Covid-19
 * https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/
 * https://www.theinformation.com/articles/how-coronavirus-epidemics-could-alter-the-future-of-tech
 * https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca - lots of graphs
@@ -14,6 +14,7 @@
 * https://twitter.com/i/lists/1235657765743472642 - my Twitter list of some people who are tweeting on the subject
 * https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html - New York Times outlining where cases are etc
 * https://www.nytimes.com/news-event/coronavirus - New York Times main hub for Covid-19
+* https://medium.com/@BLeeDrake/coronavirus-and-the-us-health-care-system-77f676194479 - An example using USA health system to show why flattening the curve is critical
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
@@ -22,6 +23,7 @@
 ## Data
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 - a dashboard of metrics
 * https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports - World Health Organisation data
+* https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd - WHO dashboard by country
 * https://ourworldindata.org/coronavirus - Our World in Data
 * https://www.gisaid.org/epiflu-applications/next-hcov-19-app/ - Genomic family tree
 * https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441 - a collection of graphs from the Financial Times
