@@ -15,6 +15,7 @@
 * https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html - New York Times outlining where cases are etc
 * https://www.nytimes.com/news-event/coronavirus - New York Times main hub for Covid-19
 * https://medium.com/@BLeeDrake/coronavirus-and-the-us-health-care-system-77f676194479 - An example using USA health system to show why flattening the curve is critical
+* https://www.washingtonpost.com/graphics/2020/world/corona-simulator/ - showing why social distancing is so important.
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
