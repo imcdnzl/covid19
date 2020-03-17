@@ -16,6 +16,9 @@
 * https://www.nytimes.com/news-event/coronavirus - New York Times main hub for Covid-19
 * https://medium.com/@BLeeDrake/coronavirus-and-the-us-health-care-system-77f676194479 - An example using USA health system to show why flattening the curve is critical
 * https://www.washingtonpost.com/graphics/2020/world/corona-simulator/ - showing why social distancing is so important.
+* https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf - Paper from Imperial showing impacts of making behavioural changes
+* https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full - how people without symptoms are escalating the spread
+* https://arstechnica.com/science/2020/03/safety-test-of-first-coronavirus-vaccine-starts-in-seattle-area/ - USA starts safety testing a vaccine
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
