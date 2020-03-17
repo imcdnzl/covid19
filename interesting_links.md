@@ -25,6 +25,7 @@
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
 * https://www.thetimes.co.uk/article/coronavirus-pandemic-men-with-high-blood-pressure-are-the-biggest-casualties-kpvpmvq6l?shareToken=0ac0d81f0cdbfc49da97fa8ae870892a - interesting article talking about high fatalities for people on blood pressure drugs which work with ACE as does the virus
 * https://www.newscientist.com/article/2236544-coronavirus-are-there-two-strains-and-is-one-more-deadly/ - the two types at present - S and L
+* https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view - good overview deck from a Stanford processor, along with other information
 
 ## Data
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 - a dashboard of metrics
