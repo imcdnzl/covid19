@@ -45,3 +45,9 @@
 * https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 * https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom
 * https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
+
+## Organisations / companies trying to help
+* https://actionagainstcorona.org/ - help organised by Norrsken
+
+## Microsoft links
+* https://blogs.microsoft.com/blog/2020/03/20/delivering-information-and-eliminating-bottlenecks-with-cdcs-covid-19-assessment-bot/ - making chatbots available to help
