@@ -50,4 +50,7 @@
 * https://actionagainstcorona.org/ - help organised by Norrsken
 
 ## Microsoft links
+### Health related
 * https://blogs.microsoft.com/blog/2020/03/20/delivering-information-and-eliminating-bottlenecks-with-cdcs-covid-19-assessment-bot/ - making chatbots available to help
+### Remote working
+* https://techcommunity.microsoft.com/t5/enterprise-mobility-security/helping-businesses-rapidly-set-up-to-work-securely-from-personal/ba-p/1239830 - getting personal devices ready for remote work
