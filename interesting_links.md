@@ -46,5 +46,6 @@
 * https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom
 * https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
 
-## Organisations / companies trying to help
+## Organisations / companies trying to help or where you can help
 * https://actionagainstcorona.org/ - help organised by Norrsken
+* https://www.usdigitalresponse.org/ - US digital response team asking for volunteers
