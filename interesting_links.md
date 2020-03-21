@@ -49,3 +49,6 @@
 ## Organisations / companies trying to help or where you can help
 * https://actionagainstcorona.org/ - help organised by Norrsken
 * https://www.usdigitalresponse.org/ - US digital response team asking for volunteers
+
+## Remote working
+* https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f - good site
