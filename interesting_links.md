@@ -20,12 +20,15 @@
 * https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full - how people without symptoms are escalating the spread
 * https://arstechnica.com/science/2020/03/safety-test-of-first-coronavirus-vaccine-starts-in-seattle-area/ - USA starts safety testing a vaccine
 * https://www.nytimes.com/article/coronavirus-travel-restrictions.html travel restrictions around the globe
+* https://www.reddit.com/r/COVID19/ Reddit
+* https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56 - different scenarios discussed
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
 * https://www.thetimes.co.uk/article/coronavirus-pandemic-men-with-high-blood-pressure-are-the-biggest-casualties-kpvpmvq6l?shareToken=0ac0d81f0cdbfc49da97fa8ae870892a - interesting article talking about high fatalities for people on blood pressure drugs which work with ACE as does the virus
 * https://www.newscientist.com/article/2236544-coronavirus-are-there-two-strains-and-is-one-more-deadly/ - the two types at present - S and L
 * https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view - good overview deck from a Stanford processor, along with other information
+* https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full - paper talking about undocumented infections and their importance
 
 ## Data
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 - a dashboard of metrics
@@ -34,6 +37,8 @@
 * https://ourworldindata.org/coronavirus - Our World in Data
 * https://www.gisaid.org/epiflu-applications/next-hcov-19-app/ - Genomic family tree
 * https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441 - a collection of graphs from the Financial Times
+* https://www.worldometers.info/coronavirus/ - great visualisations including by country
+* https://bing.com/covid - Map and stats of cases
 
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
