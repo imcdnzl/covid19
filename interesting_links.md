@@ -54,6 +54,7 @@
 ## Organisations / companies trying to help or where you can help
 * https://actionagainstcorona.org/ - help organised by Norrsken
 * https://www.usdigitalresponse.org/ - US digital response team asking for volunteers
+* https://techcrunch.com/2020/03/16/startups-developing-tech-to-combat-covid-19-urged-to-apply-for-fast-track-eu-funding/ - EU funding orgs. Expired but follow links and they'll do more probably
 
 ## Remote working
 * https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f - good site
