@@ -28,8 +28,9 @@
 * [The Times - UK](https://www.thetimes.co.uk/article/coronavirus-pandemic-men-with-high-blood-pressure-are-the-biggest-casualties-kpvpmvq6l?shareToken=0ac0d81f0cdbfc49da97fa8ae870892a) - interesting article talking about high fatalities for people on blood pressure drugs which work with ACE as does the virus
 * https://www.newscientist.com/article/2236544-coronavirus-are-there-two-strains-and-is-one-more-deadly/ - the two types at present - S and L
 * https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view - good overview deck from a Stanford processor, along with other information
-* https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full - paper talking about undocumented infections and their importance
+* [Science Mag](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full) - paper talking about undocumented infections and their importance
 * [Washington Post](https://www.washingtonpost.com/health/the-coronavirus-isnt-mutating-quickly-suggesting-a-vaccine-would-offer-lasting-protection/2020/03/24/406522d6-6dfd-11ea-b148-e4ce3fbd85b5_story.html?utm_campaign=[covid19]%20Tech%20Impac) - Virus not mutating quickly so single vaccine likely
+* [Ars Technica](https://arstechnica.com/science/2020/03/covid-19-the-biology-of-an-effective-therapy/) - Biology of an effective therapy
 
 ## Data
 * https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 - a dashboard of metrics
