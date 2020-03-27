@@ -39,7 +39,8 @@
 * https://www.gisaid.org/epiflu-applications/next-hcov-19-app/ - Genomic family tree
 * https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441 - a collection of graphs from the Financial Times
 * https://www.worldometers.info/coronavirus/ - great visualisations including by country
-* https://bing.com/covid - Map and stats of cases
+* [Bing](https://bing.com/covid) - Map and stats of cases from Bing (Microsoft search engine)
+* [Covid Graph](https://www.covidgraph.com/p/coronavirus.html) - lots of interesting graphs
 
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
