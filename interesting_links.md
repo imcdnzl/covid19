@@ -2,7 +2,6 @@
 
 ## General links
 * https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/
-* https://techcrunch.com/2020/02/23/what-happens-if-a-pandemic-hits/
 * https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/
 * https://www.who.int/emergencies/diseases/novel-coronavirus-2019 - WHO (World Health Organisation) homepage for Covid-19
 * https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/
@@ -55,10 +54,11 @@
 * https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom
 * https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
 
-## Organisations / companies trying to help or where you can help
+## Organisations / companies trying to help or where you can help, grants
 * https://actionagainstcorona.org/ - help organised by Norrsken
 * https://www.usdigitalresponse.org/ - US digital response team asking for volunteers
-* https://techcrunch.com/2020/03/16/startups-developing-tech-to-combat-covid-19-urged-to-apply-for-fast-track-eu-funding/ - EU funding orgs. Expired but follow links and they'll do more probably
+* [TechCrunch](https://techcrunch.com/2020/03/16/startups-developing-tech-to-combat-covid-19-urged-to-apply-for-fast-track-eu-funding/) - EU funding orgs. Expired but follow links and they'll do more probably
+* [TechCrunch](https://techcrunch.com/2020/04/03/in-the-wake-of-covid-19-uk-puts-up-20m-in-grants-to-develop-resilient-tech-for-critical-industries/) - £50K grants from InnovateUK
 
 ## Remote working
 * https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f - good site
