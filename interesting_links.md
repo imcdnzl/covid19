@@ -18,9 +18,10 @@
 * https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf - Paper from Imperial showing impacts of making behavioural changes
 * https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full - how people without symptoms are escalating the spread
 * https://arstechnica.com/science/2020/03/safety-test-of-first-coronavirus-vaccine-starts-in-seattle-area/ - USA starts safety testing a vaccine
-* https://www.nytimes.com/article/coronavirus-travel-restrictions.html travel restrictions around the globe
+* [New York Times](https://www.nytimes.com/article/coronavirus-travel-restrictions.html) - travel restrictions around the globe
 * https://www.reddit.com/r/COVID19/ Reddit
 * https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56 - different scenarios discussed
+* [Reddit](https://www.reddit.com/r/COVID19/comments/ftlqqx/nyc_health_only_18_of_deaths_in_new_york_city/) - Only 1.8% of deaths in New York didn't have underlying medical issues
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
