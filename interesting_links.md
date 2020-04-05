@@ -22,6 +22,7 @@
 * https://www.reddit.com/r/COVID19/ Reddit
 * https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56 - different scenarios discussed
 * [Reddit](https://www.reddit.com/r/COVID19/comments/ftlqqx/nyc_health_only_18_of_deaths_in_new_york_city/) - Only 1.8% of deaths in New York didn't have underlying medical issues
+* [GIR](https://gir.co/products/mask-kit?variant=31569419665497) - Silicon face mask
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
