@@ -23,6 +23,8 @@
 * https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56 - different scenarios discussed
 * [Reddit](https://www.reddit.com/r/COVID19/comments/ftlqqx/nyc_health_only_18_of_deaths_in_new_york_city/) - Only 1.8% of deaths in New York didn't have underlying medical issues
 * [GIR](https://gir.co/products/mask-kit?variant=31569419665497) - Silicon face mask
+* [GitHub](https://github.com/topics/covid-19?o=desc&s=stars) - GitHub projects for COVID-19
+* [The Times](https://www.thetimes.co.uk/article/coronavirus-hands-have-to-be-dried-better-too-9ddbkdwt8?shareToken=31a05d923259668ce9219cdea3323031) - Why drying hands properly is important too
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
@@ -60,6 +62,7 @@
 * https://actionagainstcorona.org/ - help organised by Norrsken
 * https://www.usdigitalresponse.org/ - US digital response team asking for volunteers
 * [TechCrunch](https://techcrunch.com/2020/03/16/startups-developing-tech-to-combat-covid-19-urged-to-apply-for-fast-track-eu-funding/) - EU funding orgs. Expired but follow links and they'll do more probably
+* [TechCrunch](https://techcrunch.com/2020/03/27/uk-tech-industry-forms-code4covid-org-to-fight-the-coronavirus-crisis/) - Code4covid
 * [TechCrunch](https://techcrunch.com/2020/04/03/in-the-wake-of-covid-19-uk-puts-up-20m-in-grants-to-develop-resilient-tech-for-critical-industries/) - £50K grants from InnovateUK
 
 ## Remote working
