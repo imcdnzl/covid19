@@ -54,9 +54,9 @@
 * https://www.morningstar.com/articles/971254/morningstars-view-the-impact-of-coronavirus-on-the-economy - analysis from Morningstar
 
 ## Wikipedia links
-* https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
-* https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom
-* https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States
+* [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic) - Main Wikipedia page
+* [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom) - UK
+* [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States) - USA
 
 ## Organisations / companies trying to help or where you can help, grants
 * https://actionagainstcorona.org/ - help organised by Norrsken
@@ -64,6 +64,7 @@
 * [TechCrunch](https://techcrunch.com/2020/03/16/startups-developing-tech-to-combat-covid-19-urged-to-apply-for-fast-track-eu-funding/) - EU funding orgs. Expired but follow links and they'll do more probably
 * [TechCrunch](https://techcrunch.com/2020/03/27/uk-tech-industry-forms-code4covid-org-to-fight-the-coronavirus-crisis/) - Code4covid
 * [TechCrunch](https://techcrunch.com/2020/04/03/in-the-wake-of-covid-19-uk-puts-up-20m-in-grants-to-develop-resilient-tech-for-critical-industries/) - £50K grants from InnovateUK
+* [Microsoft for Startups](https://startups.microsoft.com/en-us/blog/strongertogether/) - blog post linking to e-book with lots of orgs that can help
 
 ## Remote working
 * https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f - good site
