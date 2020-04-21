@@ -46,6 +46,7 @@
 * [Covid Graph](https://www.covidgraph.com/p/coronavirus.html) - lots of interesting graphs
 * [91-divoc](http://91-divoc.com/pages/covid-visualization/) - some great graphs
 * [Worldometeres](https://www.worldometers.info/coronavirus/) - great visualisations including by country
+* [Microsoft](https://www.microsoft.com/en-us/ai/ai-for-health-covid-data) - a great visualisation from Microsoft
 
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
