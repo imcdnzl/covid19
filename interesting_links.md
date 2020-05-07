@@ -19,8 +19,9 @@
 * https://science.sciencemag.org/content/early/2020/03/13/science.abb3221.full - how people without symptoms are escalating the spread
 * https://arstechnica.com/science/2020/03/safety-test-of-first-coronavirus-vaccine-starts-in-seattle-area/ - USA starts safety testing a vaccine
 * [New York Times](https://www.nytimes.com/article/coronavirus-travel-restrictions.html) - travel restrictions around the globe
-* https://www.reddit.com/r/COVID19/ Reddit
-* https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56 - different scenarios discussed
+* [Reddit](https://www.reddit.com/r/COVID19/) - a sub-reddit
+* [Reddit](https://www.reddit.com/r/Coronavirus/) - another sub-reddit
+* [Medium](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56) - different scenarios discussed
 * [Reddit](https://www.reddit.com/r/COVID19/comments/ftlqqx/nyc_health_only_18_of_deaths_in_new_york_city/) - Only 1.8% of deaths in New York didn't have underlying medical issues
 * [GIR](https://gir.co/products/mask-kit?variant=31569419665497) - Silicon face mask
 * [GitHub](https://github.com/topics/covid-19?o=desc&s=stars) - GitHub projects for COVID-19
@@ -53,6 +54,7 @@
 
 ## Economic
 * https://www.morningstar.com/articles/971254/morningstars-view-the-impact-of-coronavirus-on-the-economy - analysis from Morningstar
+* [Economist](https://www.economist.com/graphic-detail/2020/05/05/the-pandemic-has-sent-public-debt-rocketing-across-the-world) - interesting charts showing how public debt rising mightn't be a problem
 
 ## Wikipedia links
 * [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic) - Main Wikipedia page
