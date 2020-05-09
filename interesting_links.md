@@ -46,8 +46,9 @@
 * [Bing](https://bing.com/covid) - Map and stats of cases from Bing (Microsoft search engine)
 * [Covid Graph](https://www.covidgraph.com/p/coronavirus.html) - lots of interesting graphs
 * [91-divoc](http://91-divoc.com/pages/covid-visualization/) - some great graphs
-* [Worldometeres](https://www.worldometers.info/coronavirus/) - great visualisations including by country
+* [Worldometers](https://www.worldometers.info/coronavirus/) - great visualisations including by country
 * [Microsoft](https://www.microsoft.com/en-us/ai/ai-for-health-covid-data) - a great visualisation from Microsoft
+* [UK Government](https://www.gov.uk/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences) - UK government slides from press conferences each day
 
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
