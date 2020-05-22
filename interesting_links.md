@@ -49,6 +49,7 @@
 * [Worldometers](https://www.worldometers.info/coronavirus/) - great visualisations including by country
 * [Microsoft](https://www.microsoft.com/en-us/ai/ai-for-health-covid-data) - a great visualisation from Microsoft
 * [UK Government](https://www.gov.uk/government/collections/slides-and-datasets-to-accompany-coronavirus-press-conferences) - UK government slides from press conferences each day
+* [Healthdata](https://covid19.healthdata.org/) - projections and trends
 
 ## History
 * https://www.history.com/news/spanish-flu-second-wave-resurgence - details of the Spanish flu and why second wave was more deadly.
