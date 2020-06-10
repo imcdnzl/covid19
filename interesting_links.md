@@ -73,3 +73,8 @@
 
 ## Remote working
 * https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f - good site
+
+## Travel links
+* [IATA](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) - travel restrictions from IATA (they are the airline association)
+* [EASA](https://www.easa.europa.eu/SD-2020-01/Airports#group-easa-downloads) - which European airports are restricted
+* [Which](https://www.which.co.uk/news/2020/06/where-can-i-go-on-holiday-in-europe-without-entry-restrictions-and-quarantine-measures/) - Which article on where you can have a holiday
