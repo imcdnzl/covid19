@@ -27,6 +27,7 @@
 * [GitHub](https://github.com/topics/covid-19?o=desc&s=stars) - GitHub projects for COVID-19
 * [The Times](https://www.thetimes.co.uk/article/coronavirus-hands-have-to-be-dried-better-too-9ddbkdwt8?shareToken=31a05d923259668ce9219cdea3323031) - Why drying hands properly is important too
 * [New York Times](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html) - Vaccine tracker.
+* [New York Times](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html) - Drug tracker
 
 ## Medical / biological
 * https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power - Overview of biology
